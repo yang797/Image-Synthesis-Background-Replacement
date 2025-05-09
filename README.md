@@ -4,8 +4,9 @@
 
 ## DataSet Download
 
-Due to file size limits, please download through the following link:
-
+Due to file size limits, please access the DataSet in folowing ways:
+1. Run the .zh file under project/DataSet/download_dataset.zh
+2. Through the following link:
 📁 **Download Link**:
 [OneDrive](https://cuhko365-my.sharepoint.com/:u:/g/personal/122090714_link_cuhk_edu_cn/EVHRXfzXJV5MmYXo5VkXiX8BdsKhGmE5C2eRUCdfO68kew?e=Cp7JYM)
 
