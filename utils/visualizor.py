@@ -3,14 +3,13 @@ import os
 from PIL import Image
 
 
-def visualize_image(base_dir, composite_dir, our_dir, save_dir=None, mode='val'):
+def visualize_image(base_dir, composite_dir, save_dir=None, mode='val'):
     """
         Visualize composited images, people, background, and (optionally) real images.
         
         Args:
             base_dir: Directory containing input backgrounds, input people, ground truth images (if have).
             composite_dir: Directory containing composited images.
-            our_dir: Directory containing segmented people/background.
             save_dir: Directory to save visualizations (if None, just display).
             mode: 'val' (show real image) or 'test' (no real image).
     """
