@@ -21,3 +21,6 @@ project/
 │   └── images/
 │   └── people/
 ```
+
+### Outcome
+See **Report.pdf** and **Slides.pdf** for the essay and presentation of the projects.
