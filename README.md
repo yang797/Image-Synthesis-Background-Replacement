@@ -23,4 +23,4 @@ project/
 ```
 
 ### Outcome
-See **Report.pdf** and **Slides.pdf** for the essay and presentation of the projects.
+Download and see **Report.pdf** and **Slides.pdf** for the essay and presentation of the projects.
